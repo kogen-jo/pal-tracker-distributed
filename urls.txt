@@ -1,0 +1,6 @@
+https://registration-pal-kogen-jo.apps.evans.pal.pivotal.io/users/1
+https://registration-pal-kogen-jo.apps.evans.pal.pivotal.io/accounts?ownerId=1
+https://registration-pal-kogen-jo.apps.evans.pal.pivotal.io/projects?accountId=1
+https://registration-pal-kogen-jo.apps.evans.pal.pivotal.io/allocations?projectId=1
+https://backlog-pal-kogen-jo.apps.evans.pal.pivotal.io/stories?projectId=1
+https://timesheets-pal-kogen-jo.apps.evans.pal.pivotal.io/time-entries?userId=1
